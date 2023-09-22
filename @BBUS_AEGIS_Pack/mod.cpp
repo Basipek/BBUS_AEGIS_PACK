@@ -1,0 +1,12 @@
+name = "Basipek's Aegis Security Additions";
+picture = "thumbnail.jpg";
+actionName = "Website";
+action = "http://kiloo.epizy.com/";
+description = "Has mods and scripts made for Aegis Security.";
+logo = "Logo.paa";
+logoOver = "Logo.paa";
+tooltip = "Basipek's Aegis Security Additions";
+tooltipOwned = "";
+overview = "Has mods and scripts made for Aegis Security.";
+author = "Basipek Bus and Phenosi";
+overviewPicture = "AegisAdditionsThumbnail.jpg";
